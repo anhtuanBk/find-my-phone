@@ -24,8 +24,4 @@ public class TrackDps extends Activity {
 	////s
 	//sdsds
 //hvhsds
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> bc6db76d39a8663df4ec0afc42c700d0904d0a10
